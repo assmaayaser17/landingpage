@@ -1,0 +1,38 @@
+.element{
+    position: relative;
+    text-align: center;
+    min-height: 100vh; 
+    background-color:#F2FFFFED ;
+
+
+
+}
+
+.element4 {
+    min-height: 50vh;
+    position: relative;
+}
+
+.element1 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0.5; 
+}
+
+.element2 {
+    left: 0; 
+    width: auto;
+    height: 100%;
+   
+}
+
+.element3 {
+
+    right: 0; 
+    width: auto;
+    height: 100%;
+    
+   
+    
+}
